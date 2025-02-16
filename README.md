@@ -1,8 +1,4 @@
-deploy github: https://mi8mto.github.io/React-TodoList-JSONServer-Firebase-Deploy-task/
-
-deploy firebase: https://todolistdeploy.web.app/
-
-firebase deploy
+deploy github: https://mi8mto.github.io/React-TodoList-ContextAPI/
 
 1. change database
 2. change url
